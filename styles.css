@@ -165,9 +165,8 @@ footer a:hover{
 		display: block;
 	}
 
-	#wideMenu{
-		visibility: hidden;
-		height: 0px;
+	.navigation{
+		display:block;
 	}	
 
 	#content{
